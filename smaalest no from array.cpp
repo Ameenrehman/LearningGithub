@@ -2,9 +2,6 @@
 #define n 5
 int main()
 {
-	//PROGRAM TO PRINT THE POSITION OF THE SMALLEST NUMBER FROM ARRAY  
-	
-	
 	int a[10],i,small_pos,pos;
 	
 	printf("enter the array element :\n");
